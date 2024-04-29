@@ -1,1 +1,8 @@
 # CS-230
+
+The Gaming Room client wanted to take the Draw it or Lose It game that is currently on Android and expand it to other platforms. The requirements for the software consisted of only one instance of the game that could exist in memory at a given time. Game and team names must be unique and searchable, while each team would be composed of multiple players and a game would have the ability to involve more than one team.
+For this documentation I like I did a thorough job of researching the options to best serve the interest of the client. It was important to keep in mind the clients' wants and what is actually able to happen. The research placed into the documentation along with the facts provided shows the client that their best interests are at the core of the product. 
+An SDT is helpful when developing code as it acts as a guide for what is needed to be accomplished. It also ensures that you are making the best use of time and resources. while highlighting the needs that have been clearly defined and agreed upon.
+If I could choose one part of my work to revise it would be to make it more concise. by improving the statements so that they are short and to the point improves the communication between client and the developer. 
+The needs of the user for Draw It or Lose It is interpreted so that it is ensured that a consistent user experience, ease of use, and their information is secure. It is important to consider the users needs as it is one of the ones who will ultimately be using the product. 
+My focus for designing the software was to meet the clients needs and provide the best documentation I could. The Documentation of the code will make sure that it can be adapted to other applications in the future. 
